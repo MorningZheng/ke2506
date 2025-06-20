@@ -1,0 +1,9 @@
+service:
+  name: sby
+  version: 0.0.1
+  port: 10088
+bin:
+  html-pdf:
+    java: D:\Program Files\jdk-17.0.14\bin\java.exe
+    jar: C:\Users\zheng\Downloads\sby_keke.jar
+    url: /office/html/castle/toPdf
